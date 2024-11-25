@@ -554,15 +554,13 @@
                             <div class="accordion-header" id="headingOne1">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
-                                    First Little Readers (Levels A-C)
+                                    First Little Readers Program
                                 </button>
                             </div>
                             <div id="collapseOne1" class="accordion-collapse collapse show"
                                 aria-labelledby="headingOne1" data-bs-parent="#faqVersion1">
                                 <div class="accordion-body">
-                                    <p>Enrolment Events are like open days or open weeks at Busy Bees. It's a chance for
-                                        you to visit your local nursery, take a look around, and see some of exciting
-                                        activities in action. </p>
+                                    <p>First Little Readers is our reading program designed to nurture early literacy skills in young learners. It provides age-appropriate books and engaging stories that help children develop foundational reading abilities, vocabulary, and comprehension. </p>
                                 </div>
                             </div>
                         </div>
@@ -576,9 +574,7 @@
                             <div id="collapseTwo1" class="accordion-collapse collapse" aria-labelledby="headingTwo1"
                                 data-bs-parent="#faqVersion1">
                                 <div class="accordion-body">
-                                    <p>Enrolment Events are like open days or open weeks at Busy Bees. It's a chance for
-                                        you to visit your local nursery, take a look around, and see some of exciting
-                                        activities in action. </p>
+                                    <p>Children can begin their learning journey at Mwalimu Junior School as early as 3 years old in our pre-primary class (Baby Class).</p>
                                 </div>
                             </div>
                         </div>
@@ -593,9 +589,12 @@
                             <div id="collapseThree1" class="accordion-collapse collapse" aria-labelledby="headingThree1"
                                 data-bs-parent="#faqVersion1">
                                 <div class="accordion-body">
-                                    <p>Enrolment Events are like open days or open weeks at Busy Bees. It's a chance for
-                                        you to visit your local nursery, take a look around, and see some of exciting
-                                        activities in action. </p>
+                                    <p>Your child may be ready for Mwalimu Junior School if they:
+
+Show curiosity and interest in exploring new activities.
+Can follow simple instructions and routines.
+Demonstrate basic self-care skills, like feeding themselves or using the bathroom with minimal assistance (for pre-primary levels).
+Are eager to socialize with other children or engage in group activities.</p>
                                 </div>
                             </div>
                         </div>
@@ -609,9 +608,14 @@
                             <div id="collapseFour1" class="accordion-collapse collapse" aria-labelledby="headingFour1"
                                 data-bs-parent="#faqVersion1">
                                 <div class="accordion-body">
-                                    <p>Enrolment Events are like open days or open weeks at Busy Bees. It's a chance for
-                                        you to visit your local nursery, take a look around, and see some of exciting
-                                        activities in action. </p>
+                                    <p>It's natural for young children to feel anxious about being away from their parents, especially in the beginning. At Mwalimu Junior School, we provide a welcoming environment to help children transition smoothly.
+
+Our teachers and staff are trained to:
+
+Support children in adjusting to new routines.
+Offer reassurance and comfort as they settle into their class.
+Foster independence over time.
+If separation is a concern, we encourage gradual transitions, such as shorter days initially, to help your child feel more secure. </p>
                                 </div>
                             </div>
                         </div>
@@ -625,9 +629,12 @@
                             <div id="collapseFive1" class="accordion-collapse collapse" aria-labelledby="headingFive1"
                                 data-bs-parent="#faqVersion1">
                                 <div class="accordion-body">
-                                    <p>Enrolment Events are like open days or open weeks at Busy Bees. It's a chance for
-                                        you to visit your local nursery, take a look around, and see some of exciting
-                                        activities in action. </p>
+                                    <p>While it's beneficial for children to have some basic social skills, it’s not a strict requirement. At Mwalimu Junior School, we help children develop essential social abilities, such as:
+
+Sharing and taking turns.
+Participating in group activities.
+Expressing themselves in a positive way.
+Our classrooms and playgrounds are designed to encourage cooperative play and interaction, helping your child build friendships and social confidence naturally. </p>
                                 </div>
                             </div>
                         </div>
