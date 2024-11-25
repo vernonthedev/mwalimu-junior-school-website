@@ -664,49 +664,41 @@ Our classrooms and playgrounds are designed to encourage cooperative play and in
                         <div>
                             <div class="testi-style1">
                                 <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                                <h3 class="testi-name h2">Jannie Marko</h3>
+                                <h3 class="testi-name h2">Mr. and Mrs. Kamya</h3>
                                 <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                         class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
-                                <p class="testi-text">They handle all situations professionally and with genuine care. I
-                                    am absolutely delighted that my son has been there from almost day 1 and he really
-                                    enjoys going.</p>
+                                <p class="testi-text">Mwalimu Junior School has been a wonderful experience for my child. The teachers are so patient and nurturing, and I’ve seen incredible growth in my child’s confidence and academic abilities. It’s the best decision we’ve made as parents!.</p>
                             </div>
                         </div>
                         <div>
                             <div class="testi-style1">
                                 <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                                <h3 class="testi-name h2">Rodja Marino</h3>
+                                <h3 class="testi-name h2">Sarah N.</h3>
                                 <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                         class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
-                                <p class="testi-text">Lorem ipsum is placeholder text commonly used in the graphic,
-                                    print, and publishing industries for previewing layouts and visual mockups ut labore
-                                    et dolore.</p>
+                                <p class="testi-text">The caring teachers and well-structured curriculum at Mwalimu Junior School make learning exciting for the children. My daughter looks forward to school every day, and her reading and social skills have improved immensely.</p>
                             </div>
                         </div>
                         <div>
                             <div class="testi-style1">
                                 <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                                <h3 class="testi-name h2">John Deo</h3>
+                                <h3 class="testi-name h2">James W.</h3>
                                 <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                         class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
-                                <p class="testi-text">From its medieval origins to the digital era, learn everything
-                                    there is to know about the ubiquitous lorem ipsum passage lipsum as it is sometimes
-                                    known dummy text.</p>
+                                <p class="testi-text">From the warm welcome at the gate to the engaging classrooms, Mwalimu Junior School feels like a second home for my son. The school has helped him adjust quickly and develop a love for learning.</p>
                             </div>
                         </div>
                         <div>
                             <div class="testi-style1">
                                 <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                                <h3 class="testi-name h2">Franko Polo</h3>
+                                <h3 class="testi-name h2">Olivia T.</h3>
                                 <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                         class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
-                                <p class="testi-text">The passage experienced a surge in popularity during the 1960s
-                                    when Letraset used it on their dry-transfer sheets, and again during the 90s as
-                                    desktop publishers.</p>
+                                <p class="testi-text">Mwalimu Junior School combines academic excellence with a focus on character development. My child is not only excelling in academics but is also learning important life skills. We couldn’t be happier</p>
                             </div>
                         </div>
                     </div>
