@@ -450,7 +450,7 @@
     <!--==============================
     Schedule Area
     ==============================-->
-    <section class=" space-extra" data-bg-src="assets/img/bg/table-bg-1-1.jpg">
+    <section class=" space-extra" data-bg-src="https://fakeimg.pl/1200x600">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-11 col-lg-10 col-xxl-8">
@@ -474,7 +474,7 @@
                             </div>
                             <div class="tr">
                                 <div class="th">Afternoon</div>
-                                <div class="td">2.00am – 4.00am</div>
+                                <div class="td">2.00pm – 4.00pm</div>
                             </div>
                         </div>
                     </div>
@@ -495,63 +495,31 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h2 class="sec-title">preschool Classes</h2>
-                <p class="sec-text">Our preschool program has four dedicated classes</p>
+                <h2 class="sec-title">Our Pricing System</h2>
+                <p class="sec-text">Our school program pricing system</p>
             </div>
             <div class="row gx-50 gy-gx">
                 <div class="col-md-6">
                     <div class="class-style1">
-                        <div class="class-img"><a href="class-details.html"><img src="assets/img/class/cl-1-1.jpg"
+                        <div class="class-img"><a href="#"><img src="https://fakeimg.pl/360x306"
                                     alt="class"></a></div>
                         <div class="class-content">
-                            <h3 class="class-title"><a class="text-inherit" href="class-details.html">Drawing &
-                                    Painting</a></h3>
-                            <p class="class-info">Available: <span class="info">20 Seats</span></p>
-                            <p class="class-info">Required: <span class="info">2 - 6 Years</span></p>
-                            <p class="class-price">$28 <span class="duration">/ month</span></p>
-                            <a href="class-details.html" class="class-btn"><i class="far fa-plus"></i></a>
+                            <h3 class="class-title"><a class="text-inherit" href="#">Interview Pricing</a></h3>
+                            <p class="class-info">Required: <span class="info"></span></p>
+                            <p class="class-price">UGX 20,000</p>
+                            <a href="#" class="class-btn"><i class="far fa-plus"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="class-style1">
-                        <div class="class-img"><a href="class-details.html"><img src="assets/img/class/cl-1-2.jpg"
+                        <div class="class-img"><a href="#"><img src="https://fakeimg.pl/360x306"
                                     alt="class"></a></div>
-                        <div class="class-content">
-                            <h3 class="class-title"><a class="text-inherit" href="class-details.html">Color Matching</a>
-                            </h3>
-                            <p class="class-info">Available: <span class="info">15 Seats</span></p>
-                            <p class="class-info">Required: <span class="info">7 - 10 Years</span></p>
-                            <p class="class-price">$30 <span class="duration">/ month</span></p>
-                            <a href="class-details.html" class="class-btn"><i class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="class-style1">
-                        <div class="class-img"><a href="class-details.html"><img src="assets/img/class/cl-1-3.jpg"
-                                    alt="class"></a></div>
-                        <div class="class-content">
-                            <h3 class="class-title"><a class="text-inherit" href="class-details.html">Brain Train</a>
-                            </h3>
-                            <p class="class-info">Available: <span class="info">25 Seats</span></p>
-                            <p class="class-info">Required: <span class="info">11 - 13 Years</span></p>
-                            <p class="class-price">$45 <span class="duration">/ month</span></p>
-                            <a href="class-details.html" class="class-btn"><i class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="class-style1">
-                        <div class="class-img"><a href="class-details.html"><img src="assets/img/class/cl-1-4.jpg"
-                                    alt="class"></a></div>
-                        <div class="class-content">
-                            <h3 class="class-title"><a class="text-inherit" href="class-details.html">Music clipart</a>
-                            </h3>
-                            <p class="class-info">Available: <span class="info">36 Seats</span></p>
-                            <p class="class-info">Required: <span class="info">14 - 18 Years</span></p>
-                            <p class="class-price">$59 <span class="duration">/ month</span></p>
-                            <a href="class-details.html" class="class-btn"><i class="far fa-plus"></i></a>
+                         <div class="class-content">
+                            <h3 class="class-title"><a class="text-inherit" href="#">Registration Pricing</a></h3>
+                            <p class="class-info">Required For New Students: <span class="info"></span></p>
+                            <p class="class-price">UGX 30,000</p>
+                            <a href="#" class="class-btn"><i class="far fa-plus"></i></a>
                         </div>
                     </div>
                 </div>
@@ -569,8 +537,8 @@
                 <div class="col-lg-6 pb-3 pb-xl-0">
                     <div class="img-box3">
                         <div class="img-1 mega-hover">
-                            <img src="assets/img/about/faq-1-1.jpg" alt="FAQ">
-                            <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                            <img src="https://fakeimg.pl/592x709" alt="FAQ">
+                            <a href="https://www.youtube.com/watch?v=OtXLgCGKE8Y&ab_channel=FLORENCENAMIREMBE"
                                 class="play-btn popup-video position-center"><i class="fas fa-play"></i></a>
                         </div>
                         <div class="vs-circle jump"></div>
@@ -578,8 +546,8 @@
                 </div>
                 <div class="col-lg-6 align-self-center">
                     <div class="title-area text-center text-lg-start">
-                        <span class="sec-subtitle">choose your own grade level</span>
-                        <h2 class="sec-title">Guide to Preschool</h2>
+                        <span class="sec-subtitle">choose your life journey today</span>
+                        <h2 class="sec-title">Guide to Mwalimu Junior School</h2>
                     </div>
                     <div class="accordion accordion-style1" id="faqVersion1">
                         <div class="accordion-item active">
@@ -602,7 +570,7 @@
                             <div class="accordion-header" id="headingTwo1">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo1">
-                                    What Age Do Kids Start Preschool?
+                                    What Age Do Kids Start Mwalimu Junior School?
                                 </button>
                             </div>
                             <div id="collapseTwo1" class="accordion-collapse collapse" aria-labelledby="headingTwo1"
@@ -619,7 +587,7 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree1" aria-expanded="false"
                                     aria-controls="collapseThree1">
-                                    Is My Child Ready for Preschool?
+                                    Is My Child Ready for Mwalimu Junior School?
                                 </button>
                             </div>
                             <div id="collapseThree1" class="accordion-collapse collapse" aria-labelledby="headingThree1"
@@ -677,7 +645,7 @@
         <div class="container">
             <div class="row flex-row-reverse align-items-center gx-60">
                 <div class="col-lg-6 text-center text-lg-start mb-40 mb-lg-0">
-                    <img src="assets/img/about/testi-1-1.png" alt="childrens" class="w-100">
+                    <img src="https://fakeimg.pl/615x481" alt="childrens" class="w-100 thumbnail" style="border-radius: 20px;">
                 </div>
                 <div class="col-lg-6">
                     <div class="title-area text-center">
