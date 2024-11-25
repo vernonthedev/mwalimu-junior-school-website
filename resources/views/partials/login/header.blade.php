@@ -1,8 +1,9 @@
 <!-- Main navbar -->
-<div class="navbar navbar-expand-md navbar-dark">
+<div class="navbar navbar-expand-md navbar-dark bg-danger">
     <div class="mt-2 mr-5">
         <a href="{{ route('dashboard') }}" class="d-inline-block">
-            <h4 class="text-bold text-white">{{ Qs::getSystemName() }}</h4>
+            <!-- <h4 class="text-bold text-white">{{ Qs::getSystemName() }}</h4> -->
+             <img src="{{ asset('assets/img/mwalimu-white.png')}}" alt="" width="70px">
         </a>
     </div>
 
