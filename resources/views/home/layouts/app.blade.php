@@ -93,7 +93,7 @@
                             <li><a href="#">About Mwalimu</a>
                                 <ul>
                                     <li><a href="{{ route('about') }}">Our Teachers</a></li>
-                                    <li><a href="#">Board Of Directors</a></li>
+                                    <li><a href="{{ route('board')}}">Board Of Directors</a></li>
                                     <li><a href="#">Our Founder</a></li>
                                 </ul>
                             </li>
@@ -229,7 +229,7 @@
                                             <li><a href="#">About Mwalimu</a>
                                                 <ul>
                                                     <li><a href="{{ route('about') }}">Our Teachers</a></li>
-                                                    <li><a href="#">Board Of Directors</a></li>
+                                                    <li><a href="{{ route('board')}}">Board Of Directors</a></li>
                                                     <li><a href="#">Our Founder</a></li>
                                                 </ul>
                                             </li>
@@ -336,7 +336,7 @@
                                 <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
                                         href="tel:+2567643073070">+256 764 307 3078</a></p>
                                         <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
-                                        href="tel:+256743001558">+256 764 307 3078</a></p>
+                                        href="tel:+256743001558">+256 743 001 558</a></p>
                             </div>
                         </div>
                     </div>

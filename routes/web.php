@@ -8,6 +8,7 @@ Route::get('about-us',function (){ return view('home.about');})->name('about');
 Route::get('contact-us',function (){ return view('home.contact');})->name('contact');
 Route::get('events',function (){ return view('home.events');})->name('events');
 Route::get('blog',function (){ return view('home.blog');})->name('blog');
+Route::get('board-members',function (){ return view('home.board');})->name('board');
 Route::get('/privacy-policy', 'HomeController@privacy_policy')->name('privacy_policy');
 Route::get('/terms-of-use', 'HomeController@terms_of_use')->name('terms_of_use');
 
