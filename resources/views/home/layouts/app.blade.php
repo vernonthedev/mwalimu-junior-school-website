@@ -72,58 +72,57 @@
             </div>
             <div class="vs-mobile-menu">
                 <ul>
+                    <li class="menu-item">
+                        <a href="{{ route('home.index') }}">Home</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('about')}}">About Us</a>
+                    </li>
+                    <li class="menu-item">
+                                        <a href="{{ route('events')}}">Events</a>
+                                    </li>
                     <li class="menu-item-has-children">
-                        <a href="{{ route('home.index') }}">Demo</a>
+                        <a href="#">Blogs</a>
                         <ul class="sub-menu">
-                            <li><a href="{{ route('home.index') }}">Demo Style 1</a></li>
-                            <li><a href="index-2.html">Demo Style 2</a></li>
-                            <li><a href="index-3.html">Demo Style 3</a></li>
-                            <li><a href="index-4.html">Demo Style 4</a></li>
-                            <li><a href="index-5.html">Demo Style 5</a></li>
-                            <li><a href="index-6.html">Demo Style 6</a></li>
-                            <li><a href="index-7.html">Demo Style 7</a></li>
-                            <li><a href="index-8.html">Demo Style 8</a></li>
+                            <li><a href="{{ route('blog')}}">School Writers</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children mega-menu-wrap">
+                        <a href="#">More Info</a>
+                        <ul class="mega-menu">
+                            <li><a href="#">About Mwalimu</a>
+                                <ul>
+                                    <li><a href="{{ route('about') }}">Our Teachers</a></li>
+                                    <li><a href="#">Board Of Directors</a></li>
+                                    <li><a href="#">Our Founder</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">School Facilities</a>
+                                <ul>
+                                    <li><a href="#">Nursery Section</a></li>
+                                    <li><a href="#">School Kitchen</a></li>
+                                    <li><a href="#">Computer Lab</a></li>
+                                    
+                                </ul>
+                            </li>
+                            <li><a href="#">Our Establishments</a>
+                                <ul>
+                                <li><a href="#">Nvuyekure Investments</a></li>
+                                    <li><a href="#">School Writers Club</a></li>
+                                    <li><a href="#">Mwalimu Investments</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="{{ route('about')}}">Core Values</a>
+                                <ul>
+                                    <li><a href="{{ route('about')}}#vision">Vision</a></li>
+                                    <li><a href="{{ route('about')}}#mission">Mission</a></li>
+                                    <li><a href="{{ route('about')}}#religion">Religious Foundation</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="about.html">About Us</a>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="class.html">Classes</a>
-                        <ul class="sub-menu">
-                            <li><a href="class.html">Class Style 1</a></li>
-                            <li><a href="class-2.html">Class Style 2</a></li>
-                            <li><a href="class-details.html">Class Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="blog.html">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li><a href="service.html">Service</a></li>
-                            <li><a href="service-details.html">Service Details</a></li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="team-details.html">Team Details</a></li>
-                            <li><a href="event-details.html">Event Details</a></li>
-                            <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="price-plan.html">Price Plan</a></li>
-                            <li><a href="faq.html">FAQ</a></li>
-                            <li><a href="shop.html">Shop</a></li>
-                            <li><a href="shop-details.html">Shop Details</a></li>
-                            <li><a href="cart.html">Shopping Cart</a></li>
-                            <li><a href="checkout.html">Checkout</a></li>
-                            <li><a href="registration.html">Registration</a></li>
-                            <li><a href="error.html">Error Page</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact Us</a>
+                        <a href="{{ route('contact')}}">Contact</a>
                     </li>
                 </ul>
             </div>
