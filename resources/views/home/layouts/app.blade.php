@@ -107,7 +107,7 @@
                             </li>
                             <li><a href="#">Our Establishments</a>
                                 <ul>
-                                <li><a href="#">Nvuyekure Investments</a></li>
+                                <li><a href="{{ route('investment')}}">Nvuyekure Investments</a></li>
                                     <li><a href="#">School Writers Club</a></li>
                                     <li><a href="#">Mwalimu Investments</a></li>
                                 </ul>
@@ -243,7 +243,7 @@
                                             </li>
                                             <li><a href="#">Our Establishments</a>
                                                 <ul>
-                                                <li><a href="#">Nvuyekure Investments</a></li>
+                                                <li><a href="{{ route('investment')}}">Nvuyekure Investments</a></li>
                                                     <li><a href="#">School Writers Club</a></li>
                                                     <li><a href="#">Mwalimu Investments</a></li>
                                                 </ul>

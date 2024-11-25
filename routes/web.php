@@ -9,6 +9,7 @@ Route::get('contact-us',function (){ return view('home.contact');})->name('conta
 Route::get('events',function (){ return view('home.events');})->name('events');
 Route::get('blog',function (){ return view('home.blog');})->name('blog');
 Route::get('board-members',function (){ return view('home.board');})->name('board');
+Route::get('nvuyekure-investments',function (){ return view('home.investment');})->name('investment');
 Route::get('/privacy-policy', 'HomeController@privacy_policy')->name('privacy_policy');
 Route::get('/terms-of-use', 'HomeController@terms_of_use')->name('terms_of_use');
 
