@@ -375,7 +375,7 @@
                     <div class="col-md-auto">
                         <div class="title-area">
                             <span class="sec-subtitle">choose your own grade level</span>
-                            <h2 class="sec-title">Smarty Programs</h2>
+                            <h2 class="sec-title">Classed Offered</h2>
                         </div>
                     </div>
                     <div class="col-md-auto align-self-end">
@@ -395,11 +395,11 @@
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
                             <div class="category-grade">
-                                <span class="grade-label">Grade</span>
-                                <span class="grade-name">k</span>
+                                <span class="grade-label">Kindergaten Level</span>
+                                <span class="grade-name">A+</span>
                             </div>
-                            <h3 class="category-name h4"><a href="class.html" class="text-inherit">PRE-K</a></h3>
-                            <p class="category-label">( 1.5 - 3 Years )</p>
+                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Baby Class</h3>
+                            <p class="category-label">( 3 - 4 Years )</p>
                         </div>
                     </div>
                     <div class="col-xl-3">
@@ -408,11 +408,11 @@
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
                             <div class="category-grade">
-                                <span class="grade-label">Grade</span>
-                                <span class="grade-name">1</span>
+                            <span class="grade-label">Kindergaten Level</span>
+                                <span class="grade-name">A+</span>
                             </div>
-                            <h3 class="category-name h4"><a href="class.html" class="text-inherit">Grade 1</a></h3>
-                            <p class="category-label">( 4 - 5 Years )</p>
+                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Middle Class</h3>
+                            <p class="category-label">( 5 - 6 Years )</p>
                         </div>
                     </div>
                     <div class="col-xl-3">
@@ -421,11 +421,11 @@
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
                             <div class="category-grade">
-                                <span class="grade-label">Grade</span>
-                                <span class="grade-name">2</span>
+                            <span class="grade-label">Kindergaten Level</span>
+                                <span class="grade-name">A+</span>
                             </div>
-                            <h3 class="category-name h4"><a href="class.html" class="text-inherit">Grade 2</a></h3>
-                            <p class="category-label">( 6 - 8 Years )</p>
+                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Middle Class</h3>
+                            <p class="category-label">( 6 - 7 Years )</p>
                         </div>
                     </div>
                     <div class="col-xl-3">
@@ -434,37 +434,11 @@
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
                             <div class="category-grade">
-                                <span class="grade-label">Grade</span>
-                                <span class="grade-name">3</span>
+                            <span class="grade-label">Primary Level</span>
+                                <span class="grade-name">A+</span>
                             </div>
-                            <h3 class="category-name h4"><a href="class.html" class="text-inherit">Grade 3</a></h3>
-                            <p class="category-label">( 8 - 9 Years )</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3">
-                        <div class="category-style1">
-                            <div class="category-bg1"></div>
-                            <div class="category-bg2"></div>
-                            <div class="category-bg3"></div>
-                            <div class="category-grade">
-                                <span class="grade-label">Grade</span>
-                                <span class="grade-name">4</span>
-                            </div>
-                            <h3 class="category-name h4"><a href="class.html" class="text-inherit">Grade 4</a></h3>
-                            <p class="category-label">( 10 - 11 Years )</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3">
-                        <div class="category-style1">
-                            <div class="category-bg1"></div>
-                            <div class="category-bg2"></div>
-                            <div class="category-bg3"></div>
-                            <div class="category-grade">
-                                <span class="grade-label">Grade</span>
-                                <span class="grade-name">5</span>
-                            </div>
-                            <h3 class="category-name h4"><a href="class.html" class="text-inherit">Grade 5</a></h3>
-                            <p class="category-label">( 12 - 13 Years )</p>
+                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>P1 - P6</h3>
+                            <p class="category-label">( 8 Years And Above )</p>
                         </div>
                     </div>
                 </div>
