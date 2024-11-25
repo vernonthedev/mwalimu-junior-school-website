@@ -212,20 +212,17 @@
                 <div class="col-lg-6">
                     <div class="img-box1">
                         <div class="vs-circle"></div>
-                        <div class="img-1 mega-hover"><img src="assets/img/about/ab-1-1.jpg" alt="about"></div>
-                        <div class="img-2 mega-hover"><img src="assets/img/about/ab-1-2.jpg" alt="about"></div>
-                        <div class="img-3 mega-hover"><img src="assets/img/about/ab-1-3.jpg" alt="about"></div>
-                        <div class="img-4 mega-hover"><img src="assets/img/about/ab-1-4.jpg" alt="about"></div>
+                        <div class="img-1 mega-hover"><img src="https://fakeimg.pl/400x400" alt="about"></div>
+                        <div class="img-2 mega-hover"><img src="https://fakeimg.pl/400x400" alt="about"></div>
+                        <div class="img-3 mega-hover"><img src="https://fakeimg.pl/400x400" alt="about"></div>
+                        <div class="img-4 mega-hover"><img src="https://fakeimg.pl/400x400" alt="about"></div>
                     </div>
                 </div>
 
                 <div class="col-lg-6 text-center text-lg-start">
-                    <span class="sec-subtitle">part of the family since 2001,</span>
+                    <span class="sec-subtitle">part of the family since 2012,</span>
                     <h2 class="sec-title">Your Child Will Take The Lead Learning</h2>
-                    <p class="sec-text pe-xl-5 mb-4 pb-xl-3">We are constantly expanding the range of services offered,
-                        taking care of children of all ages. Our goal is to carefully educate and develop children in a
-                        fun way. We strive to turn the learning process into a bright event so that children study with
-                        pleasure.</p>
+                    <p class="sec-text pe-xl-5 mb-4 pb-xl-3">We believe that every child is unique and we therefore aim to meet their individual needs to support their learning effectively. We are affiliated with the Seventh Day Adventist church. However, we do not discriminate on religious grounds. We offer equal opportunities to all children from all religious backgrounds.</p>
                     <div class="row gx-70 justify-content-center justify-content-lg-start text-md-start">
                         <div class="col-auto">
                             <div class="vs-media media-style1">
@@ -271,60 +268,60 @@
                 data-md-slide-show="2">
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="service-details.html"><img src="assets/img/service/sr-1-1.jpg"
+                        <div class="service-img"><a href="#"><img src="https://fakeimg.pl/300x380"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-1.svg" alt="icon"></div>
-                            <h3 class="service-title"><a href="service-details.html">Active Learning</a></h3>
+                            <h3 class="service-title"><a href="#">Active Learning</a></h3>
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="service-details.html" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="service-details.html"><img src="assets/img/service/sr-1-2.jpg"
+                        <div class="service-img"><a href="#"><img src="https://fakeimg.pl/300x380"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-2.svg" alt="icon"></div>
-                            <h3 class="service-title"><a href="service-details.html">Child Care</a></h3>
+                            <h3 class="service-title"><a href="#">Child Care</a></h3>
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="service-details.html" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="service-details.html"><img src="assets/img/service/sr-1-3.jpg"
+                        <div class="service-img"><a href="#"><img src="https://fakeimg.pl/300x380"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-3.svg" alt="icon"></div>
-                            <h3 class="service-title"><a href="service-details.html">Healthy Meals</a></h3>
+                            <h3 class="service-title"><a href="#">Healthy Meals</a></h3>
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="service-details.html" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="service-details.html"><img src="assets/img/service/sr-1-4.jpg"
+                        <div class="service-img"><a href="#"><img src="https://fakeimg.pl/300x380"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-4.svg" alt="icon"></div>
-                            <h3 class="service-title"><a href="service-details.html">Secure Environment</a></h3>
+                            <h3 class="service-title"><a href="#">Secure Environment</a></h3>
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="service-details.html" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -343,7 +340,7 @@
                 <div class="row align-items-center justify-content-between flex-row-reverse">
                     <div class="col-lg-6 text-center text-lg-end">
                         <div class="img-box2">
-                            <div class="transform-banner"><img src="assets/img/about/ab-2-1.jpg" alt="about"></div>
+                            <div class="transform-banner"><img src="https://fakeimg.pl/618x618" alt="about"></div>
                             <div class="vs-circle jump"></div>
                         </div>
                     </div>
