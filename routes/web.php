@@ -2,14 +2,14 @@
 
 Auth::routes();
 
-//Route::get('/test', 'TestController@index')->name('test');
+// The home routes
+Route::get('/', 'HomeController@index')->name('home.index');    
 Route::get('/privacy-policy', 'HomeController@privacy_policy')->name('privacy_policy');
 Route::get('/terms-of-use', 'HomeController@terms_of_use')->name('terms_of_use');
 
-
+//The Admin Routes  
 Route::group(['middleware' => 'auth'], function () {
 
-    Route::get('/', 'HomeController@dashboard')->name('home');
     Route::get('/home', 'HomeController@dashboard')->name('home');
     Route::get('/dashboard', 'HomeController@dashboard')->name('dashboard');
 
