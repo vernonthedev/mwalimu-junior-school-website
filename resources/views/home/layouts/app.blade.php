@@ -256,15 +256,15 @@
                                         <a href="{{ route('home.index') }}">Home</a>
                                     </li>
                                     <li>
-                                        <a href="#">About Us</a>
+                                        <a href="{{ route('about')}}">About Us</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="#">Events</a>
+                                        <a href="{{ route('events')}}">Events</a>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a href="">Blogs</a>
+                                        <a href="#">Blogs</a>
                                         <ul class="sub-menu">
-                                            <li><a href="">School Writers</a></li>
+                                            <li><a href="{{ route('blog')}}">School Writers</a></li>
                                           
                                         </ul>
                                     </li>
@@ -273,7 +273,7 @@
                                         <ul class="mega-menu">
                                             <li><a href="#">About Mwalimu</a>
                                                 <ul>
-                                                    <li><a href="{{ route('home.index') }}">Our Teachers</a></li>
+                                                    <li><a href="{{ route('about') }}">Our Teachers</a></li>
                                                     <li><a href="#">Board Of Directors</a></li>
                                                     <li><a href="#">Our Founder</a></li>
                                                 </ul>
@@ -293,17 +293,17 @@
                                                     <li><a href="#">Mwalimu Investments</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Core Values</a>
+                                            <li><a href="{{ route('about')}}">Core Values</a>
                                                 <ul>
-                                                    <li><a href="#">Vision</a></li>
-                                                    <li><a href="#">Mission</a></li>
-                                                    <li><a href="#">Religious Foundation</a></li>
+                                                    <li><a href="{{ route('about')}}#vision">Vision</a></li>
+                                                    <li><a href="{{ route('about')}}#mission">Mission</a></li>
+                                                    <li><a href="{{ route('about')}}#religion">Religious Foundation</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">Contact</a>
+                                        <a href="{{ route('contact')}}">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
