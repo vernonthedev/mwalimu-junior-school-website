@@ -336,7 +336,7 @@
                     <div class="col-lg"><a href="{{ route('home.index') }}"><img src="assets/img/mwalimu-white.png" alt="Mwalimu Junior School Logo" width="50%"></a></div>
                     <div class="col-lg-auto">
                         <h3 class="h4 mb-0 text-white"><img src="assets/img/icon/check-list.svg" alt="icon"
-                                class="me-2"> Enroll your child in a Session now!</h3>
+                                class="me-2"> Enroll your child in a class now!</h3>
                     </div>
                     <div class="col-lg-auto"><a href="#" class="vs-btn">Start Registration</a></div>
                 </div>
