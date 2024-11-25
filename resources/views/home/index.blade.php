@@ -11,7 +11,7 @@
 
             <!-- Slide 1-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="1920" height="770" src="assets/img/hero/hero-1-1.jpg" class="ls-bg" alt="bg"
+                <img width="1920" height="770" src="https://fakeimg.pl/1200x600" class="ls-bg" alt="Mwalimu Junior School Images"
                     decoding="async">
                 <ls-layer
                     style="font-size:36px; color:#000; stroke:#000; stroke-width:0px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; width:255px; height:255px; border-width:60px 60px 60px 60px; border-color:#FFD600; border-radius:50% 50% 50% 50%; top:126px; left:740px; z-index:4; -webkit-background-clip:border-box;"
@@ -59,7 +59,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:495px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="#" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:110px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:110px; color:#ffffff; top:113px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
@@ -81,7 +81,7 @@
 
             <!-- Slide 2-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:out; kenburnsscale:1.1;">
-                <img width="1920" height="770" src="assets/img/hero/hero-1-2.jpg" class="ls-bg" alt="bg"
+                <img width="1920" height="770" src="https://fakeimg.pl/1200x600" class="ls-bg" alt="bg"
                     decoding="async">
                 <h1 style="font-size:60px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:60px; color:#ffffff; top:284px; left:312px; width:711px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
@@ -100,7 +100,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:100%; top:494px; font-family:'Fredoka', sans-serif; width:711px; margin-left:-877px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="#" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:90px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:90px; color:#ffffff; top:141px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
@@ -134,14 +134,14 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:430px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="#" class="vs-btn">Apply Today</a>
                 </div>
             </div>
 
 
             <!-- Slide 3-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="1920" height="770" src="assets/img/hero/hero-1-3.jpg" class="ls-bg" alt="bg"
+                <img width="1920" height="770" src="https://fakeimg.pl/1200x600" class="ls-bg" alt="Mwalimu junior School"
                     decoding="async">
                 <h1 style="font-size:60px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:60px; color:#ffffff; top:284px; left:312px; width:711px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
@@ -160,7 +160,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:100%; top:494px; font-family:'Fredoka', sans-serif; width:711px; margin-left:-877px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="#" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:90px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:90px; color:#ffffff; top:141px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
@@ -194,12 +194,15 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:430px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="#" class="vs-btn">Apply Today</a>
                 </div>
             </div>
 
         </div>
-    </section><!--==============================
+    </section>
+    
+    
+    <!--==============================
    About Area  
     ==============================-->
     <section class=" space-top space-extra-bottom">
@@ -247,7 +250,9 @@
 
             </div>
         </div>
-    </section><!--==============================
+    </section>
+    
+    <!--==============================
    Service Area  
 ==============================-->
     <section class=" space-extra-bottom">
@@ -327,7 +332,10 @@
             </div>
         </div>
     </section>
-    <div data-bg-src="assets/img/bg/bg-h-1-1.jpg"><!--==============================
+    <div data-bg-src="assets/img/bg/bg-h-1-1.jpg">
+        
+    
+    <!--==============================
    About Area  
     ==============================-->
         <section class=" space-top space-extra-bottom">
@@ -359,7 +367,9 @@
                     </div>
                 </div>
             </div>
-        </section><!--==============================
+        </section>
+        
+    <!--==============================
     Category Area
     ==============================-->
         <section class=" space-extra-bottom">
@@ -463,7 +473,10 @@
                 </div>
             </div>
         </section>
-    </div><!--==============================
+    </div>
+    
+    
+    <!--==============================
     Schedule Area
     ==============================-->
     <section class=" space-extra" data-bg-src="assets/img/bg/table-bg-1-1.jpg">
@@ -497,7 +510,10 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section>
+    
+    
+    <!--==============================
     Classes Area
     ==============================-->
     <section class=" space">
@@ -570,7 +586,10 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section>
+    
+    
+    <!--==============================
     FAQ Area
     ==============================-->
     <section class=" space-extra-bottom">
@@ -678,6 +697,8 @@
             </div>
         </div>
     </section>
+   
+   
     <!--==============================
     Testimonial Area
     ==============================-->
@@ -747,6 +768,8 @@
             </div>
         </div>
     </section>
+   
+   
     <!--==============================
     Newsletter Area
     ==============================-->

@@ -148,7 +148,7 @@
                     <p class="footer-text">Monday to Friday: <span class="time">8.30am – 02.00pm</span></p>
                     <p class="footer-text">Saturday, Sunday: <span class="time">Close</span></p>
                     <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                            href="mailto:user@domainname.com">user@domainname.com</a></p>
+                            href="mailto:info@mwalimujuniorschools.com">info@mwalimujuniorschools.com</a></p>
                     <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+256700000000">+44 (0)
                             207 689 7888</a></p>
                 </div>
@@ -231,8 +231,7 @@
                             <ul>
                                 <li><i class="fas fa-envelope"></i>Email: <a
                                         href="mailto:info@mwalimujuniorschool.com">info@mwalimujuniorschool.com</a></li>
-                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+256700000000">+256 (0) 207 689
-                                        7888</a></li>
+                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+256764307307">+256 764 307 307</a></li>
                             </ul>
                         </div>
                     </div>
@@ -334,12 +333,12 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row gx-60 gy-4 text-center text-lg-start justify-content-between align-items-center">
-                    <div class="col-lg"><a href="{{ route('home.index') }}"><img src="assets/img/mwalimu.png" alt="logo"></a></div>
+                    <div class="col-lg"><a href="{{ route('home.index') }}"><img src="assets/img/mwalimu-white.png" alt="Mwalimu Junior School Logo" width="50%"></a></div>
                     <div class="col-lg-auto">
                         <h3 class="h4 mb-0 text-white"><img src="assets/img/icon/check-list.svg" alt="icon"
-                                class="me-2"> Enrol your child in a Session now!</h3>
+                                class="me-2"> Enroll your child in a Session now!</h3>
                     </div>
-                    <div class="col-lg-auto"><a href="contact.html" class="vs-btn">Start Registration</a></div>
+                    <div class="col-lg-auto"><a href="#" class="vs-btn">Start Registration</a></div>
                 </div>
             </div>
         </div>
@@ -350,22 +349,21 @@
                         <div class="widget footer-widget">
                             <div class="widget-about">
                                 <h3 class="mt-n2">Giving your child the best start in life</h3>
-                                <p class="map-link"><img src="assets/img/icon/map.svg" alt="svg">First Floor, 10A
-                                    Chandos Street London New Town W1G 9LE</p>
+                                <p class="map-link"><img src="assets/img/icon/map.svg" alt="svg">Mityana- Kunywa 4km off Mityana road. Next to the district head quarters</p>
                                 <div class="sidebar-gallery">
                                     <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gal-2-1.jpg" alt="Gallery Image" class="w-100">
-                                        <a href="assets/img/widget/gal-2-1.jpg" class="popup-image gal-btn"><i
+                                        <img src="https://fakeimg.pl/600x400" alt="Gallery Image" class="w-100">
+                                        <a href="https://fakeimg.pl/600x400" class="popup-image gal-btn"><i
                                                 class="fal fa-plus"></i></a>
                                     </div>
                                     <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gal-2-2.jpg" alt="Gallery Image" class="w-100">
-                                        <a href="assets/img/widget/gal-2-2.jpg" class="popup-image gal-btn"><i
+                                        <img src="https://fakeimg.pl/600x400" alt="Gallery Image" class="w-100">
+                                        <a href="https://fakeimg.pl/600x400" class="popup-image gal-btn"><i
                                                 class="fal fa-plus"></i></a>
                                     </div>
                                     <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gal-2-3.jpg" alt="Gallery Image" class="w-100">
-                                        <a href="assets/img/widget/gal-2-3.jpg" class="popup-image gal-btn"><i
+                                        <img src="https://fakeimg.pl/600x400" alt="Gallery Image" class="w-100">
+                                        <a href="https://fakeimg.pl/600x400" class="popup-image gal-btn"><i
                                                 class="fal fa-plus"></i></a>
                                     </div>
                                 </div>
@@ -379,26 +377,26 @@
                                 <p class="footer-text">Monday to Friday: <span class="time">8.30am – 02.00pm</span></p>
                                 <p class="footer-text">Saturday, Sunday: <span class="time">Close</span></p>
                                 <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                                        href="mailto:user@domainname.com">user@domainname.com</a></p>
+                                        href="mailto:info@mwalimujuniorschools.com">info@mwalimujuniorschools.com</a></p>
                                 <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
-                                        href="tel:+256700000000">+44 (0) 207 689 7888</a></p>
+                                        href="tel:+2567643073070">+256 764 307 3078</a></p>
+                                        <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
+                                        href="tel:+256743001558">+256 764 307 3078</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="widget widget_nav_menu  footer-widget">
-                            <h3 class="widget_title">Useful Services</h3>
+                            <h3 class="widget_title">Services</h3>
                             <div class="menu-all-pages-container footer-menu">
                                 <ul class="menu">
-                                    <li><a href="#">Volunteer</a></li>
-                                    <li><a href="#">Join or Renew</a></li>
+                                    <li><a href="#">Education</a></li>
+                                    <li><a href="#">HealthCare</a></li>
                                     <li><a href="#">Advocate</a></li>
                                     <li><a href="#">Membership Options</a></li>
-                                    <li><a href="#">Partner</a></li>
-                                    <li><a href="#">Families Membership</a></li>
-                                    <li><a href="#">Sponsor</a></li>
+                                    <li><a href="#">Become Partner</a></li>
+                                    <li><a href="#">Sponsorship</a></li>
                                     <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Advertise</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -418,8 +416,8 @@
                         </div>
                     </div>
                     <div class="col-lg-auto">
-                        <p class="copyright-text ">Copyright &copy; 2024 <a href="">Mwalimu Junior School</a>. All Rights
-                            Reserved <a href="#">Developed by Veike Agency</a></p>
+                        <p class="copyright-text ">Copyright &copy; 2024 <a href="{{ route('home.index')}}">Mwalimu Junior School</a>. All Rights
+                            Reserved <a href="https://veikeagency.com">Developed by Veike Agency</a></p>
                     </div>
                 </div>
             </div>
